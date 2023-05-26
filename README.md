@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sho-Tanaka0526
-- 👀 I’m interested in Python3 and security
+- 👀 I’m interested in Rust (and Go)
 - 🌱 I’m currently learning coding
 
 <!---
