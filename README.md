@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sho-Tanaka0526
-- 👀 I’m interested in Rust (and Go)
+- 👀 I’m interested in Rust
 - 🌱 I’m currently learning coding
 
 <!---
